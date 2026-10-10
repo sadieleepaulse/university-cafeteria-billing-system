@@ -100,7 +100,7 @@ The discount is only applied when the total bill exceeds R100.00.
 Example execution:
 
 ```text
-Enter Name: John
+Enter Name: Jane
 Enter Surname: Doe
 
 Total Bill: R120.00
@@ -112,7 +112,7 @@ Bill written to cafeteria-bill.txt
 
 Screenshot:
 
-Insert here
+<img width="792" height="384" alt="program-output" src="https://github.com/user-attachments/assets/54ae9a1c-e7de-4106-b124-b7b8d448cef9" />
 
 ---
 
@@ -127,14 +127,14 @@ cafeteria-bill.txt
 Example:
 
 ```text
-Name: John
+Name: Jane
 Surname: Doe
 Final Bill: R108.00
 ```
 
 Screenshot:
 
-Insert here
+<img width="312" height="226" alt="bill-file" src="https://github.com/user-attachments/assets/2641faad-813e-4684-a6df-3f47256a7374" />
 
 ---
 
